@@ -1,0 +1,4 @@
+﻿  module.cpp
+     Creating library C:\Users\mitra\source\repos\CppIntegration\Debug\Prog2.lib and object C:\Users\mitra\source\repos\CppIntegration\Debug\Prog2.exp
+module.obj : error LNK2019: unresolved external symbol __imp___CrtDbgReport referenced in function "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl std::operator+<char,struct std::char_traits<char>,class std::allocator<char> >(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &&)" (??$?HDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@$$QAV10@0@Z)
+C:\Users\mitra\source\repos\CppIntegration\Debug\Prog2.pyd : fatal error LNK1120: 1 unresolved externals

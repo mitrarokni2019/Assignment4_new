@@ -1,0 +1,7 @@
+﻿  module.cpp
+     Creating library C:\Users\mitra\source\repos\CppIntegration\Release\Prog2.lib and object C:\Users\mitra\source\repos\CppIntegration\Release\Prog2.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1995 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Prog2.vcxproj -> C:\Users\mitra\source\repos\CppIntegration\Release\Prog2.pyd
